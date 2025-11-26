@@ -7,17 +7,11 @@ led me to dive deep into fields like cybersecurity, machine learning, and IoT.
 I'm always curious and love to explore different technologies, constantly seeking to learn and 
 implement innovative projects.
 
-- 🔭 I’m currently working on:  
+- 🔭 I’m currently working on:
+  - Machine Learning in tech projects  
+  - Electric Vehicle technologies   
   - IoT-based ecosystems and automation  
   - Cybersecurity tools and systems  
-  - Machine Learning in tech projects  
-  - Electric Vehicle technologies  
-
-- 🌱 I’m currently learning:  
-  - Cybersecurity techniques  
-  - IoT systems  
-  - Machine Learning  
-  - Electric Vehicles  
 
 - 📫 How to reach me:  
   - Email: gksbalamurugan@gmail.com  
